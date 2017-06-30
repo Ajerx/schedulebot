@@ -1,0 +1,296 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?mso-application progid="Excel.Sheet"?>
+<Workbook xmlns="urn:schemas-microsoft-com:office:spreadsheet"
+ xmlns:o="urn:schemas-microsoft-com:office:office"
+ xmlns:x="urn:schemas-microsoft-com:office:excel"
+ xmlns:ss="urn:schemas-microsoft-com:office:spreadsheet"
+ xmlns:html="http://www.w3.org/TR/REC-html40">
+ <DocumentProperties xmlns="urn:schemas-microsoft-com:office:office">
+  <Author>Customer</Author>
+  <LastAuthor>Customer</LastAuthor> 
+  <Created>2009-08-11T12:19:25Z</Created>
+  <Company>Организация</Company>
+  <Version>11.8036</Version>
+ </DocumentProperties>
+ <ExcelWorkbook xmlns="urn:schemas-microsoft-com:office:excel">
+  <WindowHeight>9720</WindowHeight>
+  <WindowWidth>15195</WindowWidth>
+  <WindowTopX>480</WindowTopX>
+  <WindowTopY>45</WindowTopY>
+  <ProtectStructure>False</ProtectStructure>
+  <ProtectWindows>False</ProtectWindows>
+ </ExcelWorkbook>
+ <Styles>
+  <Style ss:ID="Default" ss:Name="Normal">
+   <Alignment ss:Vertical="Bottom"/>
+   <Borders/>
+   <Font ss:FontName="Arial Cyr" x:CharSet="204"/>
+   <Interior/>
+   <NumberFormat/>
+   <Protection/>
+  </Style>
+  <Style ss:ID="s22">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Bottom"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="2"/>
+   </Borders>
+   <Font ss:FontName="Arial Cyr" x:CharSet="204" ss:Size="12" ss:Bold="1"/>
+  </Style>
+  <Style ss:ID="s24">
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="2"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="2"/>
+   </Borders>
+  </Style>
+  <Style ss:ID="s25">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Bottom"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="2"/>
+   </Borders>
+   <Font ss:FontName="Arial Cyr" x:CharSet="204" ss:Size="12" ss:Bold="1"/>
+  </Style>
+  <Style ss:ID="s26">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Bottom"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="2"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="2"/>
+   </Borders>
+   <Font ss:FontName="Arial Cyr" x:CharSet="204" ss:Size="12" ss:Bold="1"/>
+  </Style>
+  <Style ss:ID="s27">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Center" ss:WrapText="1"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="2"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="Arial Cyr" x:CharSet="204" ss:Size="12" ss:Bold="1"/>
+  </Style>
+  <Style ss:ID="s28">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Center" ss:WrapText="1"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="Arial Cyr" x:CharSet="204" ss:Size="8"/>
+   <NumberFormat ss:Format="@"/>
+  </Style>
+  <Style ss:ID="s29">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Center" ss:WrapText="1"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="2"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="2"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="Arial Cyr" x:CharSet="204" ss:Size="12" ss:Bold="1"/>
+  </Style>
+ </Styles>
+ <Worksheet ss:Name="Лист1">
+  <Names>
+   <NamedRange ss:Name="Print_Area" ss:RefersTo="=Лист1!R2C1:R10C7"/>
+  </Names>
+  <Table ss:ExpandedColumnCount="7" ss:ExpandedRowCount="10" x:FullColumns="1"
+   x:FullRows="1">
+   <Column ss:AutoFitWidth="0" ss:Width="63"/>
+   <Column ss:AutoFitWidth="0" ss:Width="140.25" ss:Span="5"/>
+   <Row ss:AutoFitHeight="0" ss:Height="21">
+    <Cell ss:MergeAcross="6" ss:StyleID="s22"><Data ss:Type="String">Дневное отделение: 321 группа</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="16.5">
+    <Cell ss:StyleID="s24"><NamedCell ss:Name="Print_Area"/></Cell>
+    <Cell ss:StyleID="s25"><Data ss:Type="String">Понедельник</Data><NamedCell
+      ss:Name="Print_Area"/></Cell>
+    <Cell ss:StyleID="s25"><Data ss:Type="String">Вторник</Data><NamedCell
+      ss:Name="Print_Area"/></Cell>
+    <Cell ss:StyleID="s25"><Data ss:Type="String">Среда</Data><NamedCell
+      ss:Name="Print_Area"/></Cell>
+    <Cell ss:StyleID="s25"><Data ss:Type="String">Четверг</Data><NamedCell
+      ss:Name="Print_Area"/></Cell>
+    <Cell ss:StyleID="s25"><Data ss:Type="String">Пятница</Data><NamedCell
+      ss:Name="Print_Area"/></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Суббота</Data><NamedCell
+      ss:Name="Print_Area"/></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="144">
+    <Cell ss:StyleID="s27"><Data ss:Type="String">08:20- 09:50</Data><NamedCell
+      ss:Name="Print_Area"/></Cell>
+    <Cell ss:StyleID="s28"><Data ss:Type="String"></Data><NamedCell
+      ss:Name="Print_Area"/></Cell>
+    <Cell ss:StyleID="s28"><Data ss:Type="String"></Data><NamedCell
+      ss:Name="Print_Area"/></Cell>
+    <Cell ss:StyleID="s28"><Data ss:Type="String">чис.пр.&#160;Сети и телекоммуникации&#10; 1 под.&#10;Поздняков В. А.&#10;12корпус ауд.426в&#10;&#10; знам.пр.&#160;Сети и телекоммуникации&#10; 2 под.&#10;Поздняков В. А.&#10;12корпус ауд.426в&#10;&#10; </Data><NamedCell
+      ss:Name="Print_Area"/></Cell>
+    <Cell ss:StyleID="s28"><Data ss:Type="String">чис.пр.&#160;Основы межличностных коммуникаций&#10;Кравченко Н. Ю.&#10;12корпус ауд.420&#10;&#10; </Data><NamedCell
+      ss:Name="Print_Area"/></Cell>
+    <Cell ss:StyleID="s28"><Data ss:Type="String">пр.&#160;Элективные дисциплины по физической культуре&#10;Вантеева В. Л.&#10;12 корп. Спортзал&#10;&#10; </Data><NamedCell
+      ss:Name="Print_Area"/></Cell>
+    <Cell ss:StyleID="s28"><Data ss:Type="String"></Data><NamedCell
+      ss:Name="Print_Area"/></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="144">
+    <Cell ss:StyleID="s27"><Data ss:Type="String">10:00- 11:35</Data><NamedCell
+      ss:Name="Print_Area"/></Cell>
+    <Cell ss:StyleID="s28"><Data ss:Type="String">лек.&#160;ЭВМ и периферийные устройства&#10;Савин А. Н.&#10;12корпус ауд. 304&#10;&#10; </Data><NamedCell
+      ss:Name="Print_Area"/></Cell>
+    <Cell ss:StyleID="s28"><Data ss:Type="String">чис.пр.&#160;Базы данных&#10; 1 под.&#10;Батраева И. А.&#10;12корпус ауд.416А&#10;&#10; </Data><NamedCell
+      ss:Name="Print_Area"/></Cell>
+    <Cell ss:StyleID="s28"><Data ss:Type="String">пр.&#160;Сети и телекоммуникации&#10; 1 под.&#10;Поздняков В. А.&#10;12корпус ауд.426в&#10;&#10; чис.пр.&#160;Элективные дисциплины по физической культуре&#10;2 под.&#10;Вантеева В. Л.&#10;12 корп. Спортзал&#10;&#10; знам.пр.&#160;Базы данных&#10;2 под.&#10;Сафрончик М. И.&#10;12 корп. 416Б ауд.&#10;&#10; </Data><NamedCell
+      ss:Name="Print_Area"/></Cell>
+    <Cell ss:StyleID="s28"><Data ss:Type="String">чис.пр.&#160;Основы межличностных коммуникаций&#10;Кравченко Н. Ю.&#10;12корпус ауд.420&#10;&#10; </Data><NamedCell
+      ss:Name="Print_Area"/></Cell>
+    <Cell ss:StyleID="s28"><Data ss:Type="String">чис.пр.&#160;ЭВМ и периферийные устройства&#10; 1 под.&#10;Савин А. Н.&#10;12корпус ауд.413&#10;&#10; знам.пр.&#160;ЭВМ и периферийные устройства&#10; 2 под.&#10;Савин А. Н.&#10;12корпус ауд.413&#10;&#10; </Data><NamedCell
+      ss:Name="Print_Area"/></Cell>
+    <Cell ss:StyleID="s28"><Data ss:Type="String"></Data><NamedCell
+      ss:Name="Print_Area"/></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="144">
+    <Cell ss:StyleID="s27"><Data ss:Type="String">12:05- 13:40</Data><NamedCell
+      ss:Name="Print_Area"/></Cell>
+    <Cell ss:StyleID="s28"><Data ss:Type="String">пр.&#160;Моделирование&#10; 1 под.&#10;Долгов В. И.&#10;12корпус ауд.426в&#10;&#10; пр.&#160;ЭВМ и периферийные устройства&#10; 2 под.&#10;Савин А. Н.&#10;12корпус ауд.413&#10;&#10; </Data><NamedCell
+      ss:Name="Print_Area"/></Cell>
+    <Cell ss:StyleID="s28"><Data ss:Type="String">пр.&#160;Базы данных&#10; 2 под.&#10;Сафрончик М. И.&#10;12корпус ауд.418б&#10;&#10; пр.&#160;Базы данных&#10; 1 под.&#10;Батраева И. А.&#10;12корпус ауд.418а&#10;&#10; </Data><NamedCell
+      ss:Name="Print_Area"/></Cell>
+    <Cell ss:StyleID="s28"><Data ss:Type="String">пр.&#160;Формальные языки и грамматики&#10;Сагаева И. Д.&#10;12корпус ауд.312&#10;&#10; </Data><NamedCell
+      ss:Name="Print_Area"/></Cell>
+    <Cell ss:StyleID="s28"><Data ss:Type="String">лек.&#160;Базы данных&#10;Батраева И. А.&#10;12корпус ауд.310&#10;&#10; </Data><NamedCell
+      ss:Name="Print_Area"/></Cell>
+    <Cell ss:StyleID="s28"><Data ss:Type="String">пр.&#160;ЭВМ и периферийные устройства&#10; 1 под.&#10;Савин А. Н.&#10;12корпус ауд.413&#10;&#10; пр.&#160;Сети и телекоммуникации&#10; 2 под.&#10;Поздняков В. А.&#10;12корпус ауд.229&#10;&#10; </Data><NamedCell
+      ss:Name="Print_Area"/></Cell>
+    <Cell ss:StyleID="s28"><Data ss:Type="String"></Data><NamedCell
+      ss:Name="Print_Area"/></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="144">
+    <Cell ss:StyleID="s27"><Data ss:Type="String">13:50- 15:25</Data><NamedCell
+      ss:Name="Print_Area"/></Cell>
+    <Cell ss:StyleID="s28"><Data ss:Type="String">чис.лек.&#160;Сети и телекоммуникации&#10;Поздняков В. А.&#10;12корпус ауд.303&#10;&#10; знам.лек.&#160;ЭВМ и периферийные устройства&#10;Савин А. Н.&#10;12корпус ауд.333&#10;&#10; </Data><NamedCell
+      ss:Name="Print_Area"/></Cell>
+    <Cell ss:StyleID="s28"><Data ss:Type="String"></Data><NamedCell
+      ss:Name="Print_Area"/></Cell>
+    <Cell ss:StyleID="s28"><Data ss:Type="String">пр.&#160;Моделирование&#10; 2 под.&#10;Рогачко Е. С.&#10;12корпус ауд.215&#10;&#10; пр.&#160;Элективные дисциплины по физической культуре&#10;Вантеева В. Л.&#10;12 корп. Спортзал&#10;&#10; </Data><NamedCell
+      ss:Name="Print_Area"/></Cell>
+    <Cell ss:StyleID="s28"><Data ss:Type="String">лек.&#160;Формальные языки и грамматики&#10;Сагаева И. Д.&#10;12корпус ауд.333&#10;&#10; </Data><NamedCell
+      ss:Name="Print_Area"/></Cell>
+    <Cell ss:StyleID="s28"><Data ss:Type="String">знам.пр.&#160;Элективные дисциплины по физической культуре&#10;Вантеева В. Л.&#10;12 корп. Спортзал&#10;&#10; </Data><NamedCell
+      ss:Name="Print_Area"/></Cell>
+    <Cell ss:StyleID="s28"><Data ss:Type="String"></Data><NamedCell
+      ss:Name="Print_Area"/></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="144">
+    <Cell ss:StyleID="s27"><Data ss:Type="String">15:35- 17:10</Data><NamedCell
+      ss:Name="Print_Area"/></Cell>
+    <Cell ss:StyleID="s28"><Data ss:Type="String">лек.&#160;Сети и телекоммуникации&#10;Поздняков В. А.&#10;12корпус ауд.303&#10;&#10; </Data><NamedCell
+      ss:Name="Print_Area"/></Cell>
+    <Cell ss:StyleID="s28"><Data ss:Type="String"></Data><NamedCell
+      ss:Name="Print_Area"/></Cell>
+    <Cell ss:StyleID="s28"><Data ss:Type="String"></Data><NamedCell
+      ss:Name="Print_Area"/></Cell>
+    <Cell ss:StyleID="s28"><Data ss:Type="String">лек.&#160;Моделирование&#10;Тананко И. Е.&#10;12корпус ауд.313&#10;&#10; </Data><NamedCell
+      ss:Name="Print_Area"/></Cell>
+    <Cell ss:StyleID="s28"><Data ss:Type="String">пр.&#160;Иностранный язык (переводчики)&#10;Алексеева Д. А.&#10;12 корп. 420 ауд.&#10;&#10; </Data><NamedCell
+      ss:Name="Print_Area"/></Cell>
+    <Cell ss:StyleID="s28"><Data ss:Type="String"></Data><NamedCell
+      ss:Name="Print_Area"/></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="144">
+    <Cell ss:StyleID="s27"><Data ss:Type="String">17:20- 18:40</Data><NamedCell
+      ss:Name="Print_Area"/></Cell>
+    <Cell ss:StyleID="s28"><Data ss:Type="String">пр.&#160;Иностранный язык (переводчики)&#10;Шилова С. А.&#10;12 корп. 312 ауд.&#10;&#10; </Data><NamedCell
+      ss:Name="Print_Area"/></Cell>
+    <Cell ss:StyleID="s28"><Data ss:Type="String">пр.&#160;Иностранный язык (переводчики)&#10;Шилова С. А.&#10;12 корп. 312 ауд.&#10;&#10; </Data><NamedCell
+      ss:Name="Print_Area"/></Cell>
+    <Cell ss:StyleID="s28"><Data ss:Type="String"></Data><NamedCell
+      ss:Name="Print_Area"/></Cell>
+    <Cell ss:StyleID="s28"><Data ss:Type="String"></Data><NamedCell
+      ss:Name="Print_Area"/></Cell>
+    <Cell ss:StyleID="s28"><Data ss:Type="String"></Data><NamedCell
+      ss:Name="Print_Area"/></Cell>
+    <Cell ss:StyleID="s28"><Data ss:Type="String"></Data><NamedCell
+      ss:Name="Print_Area"/></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="144">
+    <Cell ss:StyleID="s27"><Data ss:Type="String">18:45- 20:10</Data><NamedCell
+      ss:Name="Print_Area"/></Cell>
+    <Cell ss:StyleID="s28"><Data ss:Type="String"></Data><NamedCell
+      ss:Name="Print_Area"/></Cell>
+    <Cell ss:StyleID="s28"><Data ss:Type="String"></Data><NamedCell
+      ss:Name="Print_Area"/></Cell>
+    <Cell ss:StyleID="s28"><Data ss:Type="String"></Data><NamedCell
+      ss:Name="Print_Area"/></Cell>
+    <Cell ss:StyleID="s28"><Data ss:Type="String"></Data><NamedCell
+      ss:Name="Print_Area"/></Cell>
+    <Cell ss:StyleID="s28"><Data ss:Type="String"></Data><NamedCell
+      ss:Name="Print_Area"/></Cell>
+    <Cell ss:StyleID="s28"><Data ss:Type="String"></Data><NamedCell
+      ss:Name="Print_Area"/></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="144">
+    <Cell ss:StyleID="s29"><Data ss:Type="String">20:10- 21:30</Data><NamedCell
+      ss:Name="Print_Area"/></Cell>
+    <Cell ss:StyleID="s28"><Data ss:Type="String"></Data><NamedCell
+      ss:Name="Print_Area"/></Cell>
+    <Cell ss:StyleID="s28"><Data ss:Type="String"></Data><NamedCell
+      ss:Name="Print_Area"/></Cell>
+    <Cell ss:StyleID="s28"><Data ss:Type="String"></Data><NamedCell
+      ss:Name="Print_Area"/></Cell>
+    <Cell ss:StyleID="s28"><Data ss:Type="String"></Data><NamedCell
+      ss:Name="Print_Area"/></Cell>
+    <Cell ss:StyleID="s28"><Data ss:Type="String"></Data><NamedCell
+      ss:Name="Print_Area"/></Cell>
+    <Cell ss:StyleID="s28"><Data ss:Type="String"></Data><NamedCell
+      ss:Name="Print_Area"/></Cell>
+   </Row>
+  </Table>
+  <WorksheetOptions xmlns="urn:schemas-microsoft-com:office:excel">
+   <PageSetup>
+    <PageMargins x:Bottom="0.984251969" x:Left="0.78740157499999996"
+     x:Right="0.78740157499999996" x:Top="0.984251969"/>
+   </PageSetup>
+   <Print>
+    <ValidPrinterInfo/>
+    <PaperSizeIndex>9</PaperSizeIndex>
+    <HorizontalResolution>300</HorizontalResolution>
+    <VerticalResolution>300</VerticalResolution>
+   </Print>
+   <Selected/>
+   <Panes>
+    <Pane>
+     <Number>3</Number>
+     <RangeSelection>R1C1:R1C7</RangeSelection>
+    </Pane>
+   </Panes>
+   <ProtectObjects>False</ProtectObjects>
+   <ProtectScenarios>False</ProtectScenarios>
+  </WorksheetOptions>
+ </Worksheet>
+ <Worksheet ss:Name="Лист2">
+  <WorksheetOptions xmlns="urn:schemas-microsoft-com:office:excel">
+   <PageSetup>
+    <PageMargins x:Bottom="0.984251969" x:Left="0.78740157499999996"
+     x:Right="0.78740157499999996" x:Top="0.984251969"/>
+   </PageSetup>
+   <ProtectObjects>False</ProtectObjects>
+   <ProtectScenarios>False</ProtectScenarios>
+  </WorksheetOptions>
+ </Worksheet>
+ <Worksheet ss:Name="Лист3">
+  <WorksheetOptions xmlns="urn:schemas-microsoft-com:office:excel">
+   <PageSetup>
+    <PageMargins x:Bottom="0.984251969" x:Left="0.78740157499999996"
+     x:Right="0.78740157499999996" x:Top="0.984251969"/>
+   </PageSetup>
+   <ProtectObjects>False</ProtectObjects>
+   <ProtectScenarios>False</ProtectScenarios>
+  </WorksheetOptions>
+ </Worksheet>
+</Workbook>
