@@ -2,5 +2,4 @@
 import os
 
 token = os.environ['SCHEDULETOKEN']
-
-database_name = 'users.db'
+database = os.environ["DATABASE_URL"]

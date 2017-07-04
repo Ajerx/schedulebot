@@ -37,7 +37,7 @@ def send_welcome(message):
 
 @bot.message_handler(regexp='^📚 Узнать расписание$')
 def send_msg(message):
-    db = SQLlighter(config.database_name)
+    db = SQLlighter(config.database)
     if not db.check_user(message.chat.id):
         bot.send_message(message.chat.id, 'Я еще не знаю номер вашей группы.\nНажмите на кнопку "📝 Сменить группу", чтобы задать его.')
     else:
@@ -123,7 +123,7 @@ def callback_inline(call):
         bot.edit_message_reply_markup(chat_id=call.message.chat.id, message_id=call.message.message_id,
                                       reply_markup=keyboard)
     else:
-        s = SQLlighter(config.database_name)
+        s = SQLlighter(config.database)
         if s.check_user(call.message.chat.id):
             s.update_schedule(call.message.chat.id, call.data)
         else:
@@ -138,7 +138,7 @@ def callback_date(call):
     dayweeks_eng_number = {'monday': 0, 'tuesday': 1, 'wednesday' : 2, 'thursday': 3, 'friday':4, 'saturday':5, 'sunday':6}
     dayweeks_eng_rus = {'monday': 'понедельник', 'tuesday': 'вторник',
                     'wednesday': 'среду', 'thursday': 'четверг', 'friday': 'пятницу', 'saturday': 'субботу', 'sunday': 'воскресенье'}
-    db = SQLlighter(config.database_name)
+    db = SQLlighter(config.database)
     if call.data == 'today':
         bot.edit_message_text(chat_id=call.message.chat.id,  message_id=call.message.message_id, text =
                          '*Сегодня {0}, {1}.\n\nТекущая неделя – {2}.\n\n*Ваше расписание:\n\n'.format(
