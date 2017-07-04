@@ -6,6 +6,8 @@ from SQLlighter import SQLlighter
 from telebot import types
 import updatedatabase
 import threading
+import os
+
 bot = telebot.TeleBot(config.token)
 
 
@@ -197,5 +199,6 @@ def callback_date(call):
 
 
 if __name__ == '__main__':
+    os.makedirs('./schedules', exist_ok=True)
     threading.Thread(target=updatedatabase.sched).start()
     threading.Thread(target=bot.polling, kwargs={'none_stop':True}).start()
